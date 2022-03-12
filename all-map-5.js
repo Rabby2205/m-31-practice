@@ -12,4 +12,5 @@ const products = [
 const ProductName = products.map(product => product.name);
 const ProductPrice = products.map(product => product.price);
 // console.log(JSON.stringify(ProductName, ProductPrice));
+
 console.log(products);
