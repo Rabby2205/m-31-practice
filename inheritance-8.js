@@ -1,3 +1,11 @@
+
+class TeamMember {
+
+}
+
+
+
+
 //creating a class . 
 class Member {
     name;
